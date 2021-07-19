@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋, I'm Alive ( My discord - Alive#9999 )
 
-<!--
-**alivexd/alivexd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<a href="https://www.instagram.com/aliveislive/">
+  <img align="left" alt="Alive's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://discord.com/users/834315488473120788">
+    <img align ="left" alt="Alive's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  </a>
+ 
+<br/>
 
-Here are some ideas to get you started:
+Hey, I'm Alive, a Web Developer 🚀 & Discord Bot Developer from India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ **Information:**
+
+- 🔭 I’m currently working on  **Open Source Projects and Discord Bots.**
+- 😀 Also minecraft > other games
+- 👯 I’m looking to collaborate on **More Open Source Projects.**
+- 🤔 I’m looking for help with  **Data Structures and DP stuff.**
+- 📫 Contact me at :  **discord.gg/dignity**
+- ⚡ Fun fact : **JavaScript >>>> Python.**
+
