@@ -12,7 +12,7 @@ Hey, I'm Alive, a Web Developer 🚀 & Discord Bot Developer from India.
 - 😀 Also minecraft > other games
 
 <br/>
-<a href="https://www.instagram.com/aliveislive/">
+<a href="https://www.instagram.com/alivexd_/">
   <img align="left" alt="Alive's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://discord.com/users/834315488473120788">
