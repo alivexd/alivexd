@@ -6,10 +6,9 @@ Hey, I'm Alive, a Web Developer 🚀 & Discord Bot Developer from India.
 
 - 🔭 I’m currently working on  **Open Source Projects and Discord Bots.**
 - 👯 I’m looking to collaborate on **More Open Source Projects.**
-- 🤔 I’m looking for help with  **Data Structures and DP stuff.**
 - 📫 Contact me at :  **discord.gg/dignity**
 - ⚡ Fun fact : **JavaScript >>>> Python.**
-- 😀 Also minecraft > other games
+- ♥ Minecraft
 
 <br/>
 <a href="https://www.instagram.com/alivexd_/">
