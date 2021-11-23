@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Alive ( My discord - Alive#9999 )
+### Hi there 👋, I'm Alive ( My discord - Alive#0001 )
 
 Hey, I'm Alive, a Web Developer 🚀 & Discord Bot Developer from India.
 
