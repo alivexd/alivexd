@@ -7,7 +7,7 @@ Hey, I'm Alive, a Web Developer 🚀 & Discord Bot Developer from India.
 - 🔭 I’m currently working on  **Open Source Projects and Discord Bots.**
 - 👯 I’m looking to collaborate on **More Open Source Projects.**
 - 📫 Contact me at :  **dsc.gg/apexdevelopment**
-- ♥ Minecraft
+- ♥ Proud Indian
 
 <br/>
 <a href="https://www.instagram.com/">
